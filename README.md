@@ -1,6 +1,6 @@
-# Narisaksham
+# NariSaksham
 
-Narisaksham is a pioneering startup focused on empowering women by creating sustainable employment opportunities. Our mission is to foster an environment where women can achieve financial independence and contribute meaningfully to their communities.
+NariSaksham is a pioneering startup focused on empowering women by creating sustainable employment opportunities. Our mission is to foster an environment where women can achieve financial independence and contribute meaningfully to their communities.
 
 ## Naripathshala
 
@@ -12,7 +12,7 @@ Visit our website: https://faizahmed09.github.io/NARISAKSHAM/index.html
 
 ## Multilingual Support
 
-The Narisaksham website supports both English and Hindi languages. Users can seamlessly switch between languages using the language toggle buttons provided on the site. By selecting the **English** button, the website content will be displayed in English. Conversely, selecting the **Hindi** button will translate the entire website into Hindi. This functionality ensures that our content is accessible to a diverse audience and caters to the linguistic preferences of our users.
+The NariSaksham website supports both English and Hindi languages. Users can seamlessly switch between languages using the language toggle buttons provided on the site. By selecting the **English** button, the website content will be displayed in English. Conversely, selecting the **Hindi** button will translate the entire website into Hindi. This functionality ensures that our content is accessible to a diverse audience and caters to the linguistic preferences of our users.
 
 ## Installation
 
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions to enhance the Narisaksham website. To contribute, follow these steps:
+I welcome contributions to enhance the NariSaksham website. To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
